@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-*main - prints the string
-something something piece of art
-Return 0 if successful
+*main - prints the string 
+*Prints the art piece
+*Return 0 if successful
 */
 
 int main(void)
