@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-*main - prints the string 
-*Prints the art piece
+*main - prints with proper grammer
+*but the oucome is a piece of art
 *Return 0 if successful
 */
 
