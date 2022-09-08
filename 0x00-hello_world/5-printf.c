@@ -2,7 +2,8 @@
 
 /**
 *main - prints the string
-*Return 0 if successful
+something something piece of art
+Return 0 if successful
 */
 
 int main(void)
