@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-*main : prints with proper grammer
+*main - prints with proper grammer
 *but the oucome is a piece of art
-*Return 0: if successful
+*Return 0 : if successful
 */
 int main(void)
 {
