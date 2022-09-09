@@ -5,14 +5,14 @@
 * Return: 0 if successful
 */
 
- int main(void)
+int main(void)
 {
 int letter;
-for(letter = 'a'; letter <= 'z'; letter++)
+for (letter = 'a'; letter <= 'z'; letter++)
 {
 putchar(letter);
 }
-for(letter = 'A'; letter <= 'Z'; letter++)
+for (letter = 'A'; letter <= 'Z'; letter++)
 {
 putchar(letter);
 }
