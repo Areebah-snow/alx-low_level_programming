@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - runs code 
+* main - runs code
 * Return: 0 if successful
 */
 int main(void)
