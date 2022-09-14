@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _islower - CHECK FOR LOWER CASE LETTERS
- * @C : CHARACTER TO CHECK THE CASE
+ * @c : CHARACTER TO CHECK THE CASE
  * Return: 0 or 1
  */
 
