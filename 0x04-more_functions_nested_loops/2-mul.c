@@ -3,7 +3,7 @@
  * mul - prints code
  * @a- variable
  * @b: variable b
- * Return 0 if successful
+ * Return: 0 if successful
  */
 
 int mul(int a, int b)
