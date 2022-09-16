@@ -7,7 +7,9 @@
 
 void print_square(int size)
 {
-	int height, width;
+	int height; 
+	    
+	int width;
 
 	if (size > 0)
 	{
@@ -15,6 +17,7 @@ void print_square(int size)
 		{
 			for (width = 0; width < size; width)
 				_putchar('#');
+
 			if (height == size - 1)
 				continue;
 
