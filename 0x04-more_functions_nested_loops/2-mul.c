@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * mul - prints code
- * @a- variable
+ * @a: variable
  * @b: variable b
  * Return: 0 if successful
  */
