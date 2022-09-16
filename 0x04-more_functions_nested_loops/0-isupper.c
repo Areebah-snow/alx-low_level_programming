@@ -2,14 +2,14 @@
 /**
 *_isupper - checks if letter is upper case
 *@c: checks if c is uppercase
-*Return: 0 if it isnt uppercase
+*Return: 0 
 */
 
 int _isupper(int c)
 {
-if(c >= 'A' && c <= 'Z')
+   if(c >= 'A' && c <= 'Z')
 	return (1);
 
-else{
+   else{
 	return(0);
 }
