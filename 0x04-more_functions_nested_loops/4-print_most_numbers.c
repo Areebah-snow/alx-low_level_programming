@@ -4,7 +4,7 @@
  *  Return: 0
  */
 
-void  print_most_mnumbers(void)
+void  print_most_numbers(void)
 {
 	int i;
 
@@ -12,7 +12,7 @@ void  print_most_mnumbers(void)
 	{
 		if(i != 2 && i != 4)
 		{
-			_putchar(i + '0')
+			_putchar(i + '0');
 		}
 	}
 	_putchar('\n');
