@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int _strlen - Entry point
+ * _strlen - Entry point
  * @s: pointer with a character datatype
  * Return: 0
  */
@@ -11,7 +11,7 @@ int _strlen(char *s)
 
 	i = 0;
 
-	while(s[i] != '\0')
+	while (s[i] != '\0')
 	{
 		i++;
 	}
