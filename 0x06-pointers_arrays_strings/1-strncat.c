@@ -3,6 +3,7 @@
  *_strncat - Entry point
  *@dest: pointers
  *@src: pointers
+ *@n: variable
  *Return: dest
  */
 
