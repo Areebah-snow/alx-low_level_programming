@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * string_toupper
+ * string_toupper - Entry point
  * @str: pointer
  * Return: char
  */
