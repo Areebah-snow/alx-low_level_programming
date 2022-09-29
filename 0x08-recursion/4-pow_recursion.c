@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * _pow_recursion - exponential 
+ * _pow_recursion - exponential
  * @x: variable
  * @y: power
- * Return: power recursion 
+ * Return: power recursion
  */
 
 int _pow_recursion(int x, int y)
